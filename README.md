@@ -82,4 +82,4 @@ It bridges the gap between AI and real-world accounting challenges, empowering d
 ## Contact
 
 *[Khulod Almarawni]*  
-[Khulod-Aljuhani] | [Khulodalmarwani@gmail.com]
+[https://www.linkedin.com/in/khulod-aljuhani] | [Khulodalmarwani@gmail.com]
