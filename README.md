@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/wafi-header.png" alt="Wafi Logo" width="500"/>
+  <img src="wafi.header.png" alt="Wafi Logo" width="500"/>
 </p>
 
 # WAFI – Intelligent Tax & Profit Forecasting
@@ -34,7 +34,7 @@ Developed using real financial data from STC, the project was built and presente
 
 Wafi enables users to input financial data interactively and retrieve predicted values for various metrics:
 
-![Wafi UI](wafi-ui.png)
+![Wafi UI](wafi.ui.png)
 
 ---
 
@@ -49,7 +49,7 @@ The system generated realistic forecasts for:
 
 All predictions are based on historical patterns and projected market behavior.
 
-![Forecast Charts](wafi.graph.png)
+![Forecast Charts](Wafi.graph.png)
 
 ---
 
@@ -62,7 +62,7 @@ Sample prediction output from STC data for the next fiscal period:
 - *Expected Net Income*: 3,365,612 SAR  
 - *Expected Tax/Zakat*: 341,746 SAR
 
-![Prediction Summary](wafi.result.png)
+![Prediction Summary](wafi.result.jpg)
 
 ---
 
