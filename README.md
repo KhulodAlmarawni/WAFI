@@ -34,7 +34,7 @@ Developed using real financial data from STC, the project was built and presente
 
 Wafi enables users to input financial data interactively and retrieve predicted values for various metrics:
 
-![Wafi UI](images/wafi-ui.png)
+![Wafi UI](wafi-ui.png)
 
 ---
 
@@ -49,7 +49,7 @@ The system generated realistic forecasts for:
 
 All predictions are based on historical patterns and projected market behavior.
 
-![Forecast Charts](images/wafi-forecast-graphs.png)
+![Forecast Charts](wafi.graph.png)
 
 ---
 
@@ -62,7 +62,7 @@ Sample prediction output from STC data for the next fiscal period:
 - *Expected Net Income*: 3,365,612 SAR  
 - *Expected Tax/Zakat*: 341,746 SAR
 
-![Prediction Summary](images/wafi-results.png)
+![Prediction Summary](wafi.result.png)
 
 ---
 
